@@ -1,0 +1,6 @@
+.vscode/
+log/
+src/.vscode
+src/build
+src/libmicroros
+src/microros_static_library
